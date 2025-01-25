@@ -6,3 +6,5 @@ Sal
 Vainilla
 Mantequilla
 Canela
+Batidora
+Crema pastelera
