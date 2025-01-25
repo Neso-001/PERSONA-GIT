@@ -5,3 +5,4 @@ Harina
 Sal
 Vainilla
 Mantequilla
+Canela

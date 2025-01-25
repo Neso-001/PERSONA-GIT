@@ -1,1 +1,4 @@
 Receta para hacer una torta
+Paso 1: Comprar los ingredientes
+Paso 2: VMezclar todos los ingredientes
+Paso 3: Batir
